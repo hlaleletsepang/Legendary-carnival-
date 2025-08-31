@@ -1,2 +1,20 @@
-# Legendary-carnival-
-Time of festivity
+
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css/
+│   ├── style.css
+│   ├── about.css
+│   └── services.css
+│
+├── images/
+│   ├── logo.png
+│   ├── casket.jpg
+│   └── tent.jpg
+│
+└── js/
+    └── script.js
+
+
