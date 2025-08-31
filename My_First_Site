@@ -1,20 +1,16 @@
 
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
+├── index.html          (Homepage)
+├── about-us.html       (About page)
+├── pictures.html       (Gallery/Photos page)
+├── service's.html      (Services page)
 │
 ├── css/
-│   ├── style.css
-│   ├── about.css
-│   └── services.css
+│   ├── style.css       (Main styling for index)
+│   ├── about-us.css    (About page styling)
+│   ├── service's.css   (Services page styling)
+│   └── pictures.css    (Gallery page styling)
 │
-├── images/
-│   ├── logo.png
-│   ├── casket.jpg
-│   └── tent.jpg
-│
-└── js/
-    └── script.js
-
-
+└── images/             (All pictures used in website)
+    ├── logo.png
+    ├── healing1.jpg
+    └── healing2.jpg
